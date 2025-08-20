@@ -1,16 +1,54 @@
-## Hi there 👋
+Olá Mundo! Me chamo Nicolas Carvalho
+---
 
-<!--
-**nicolaslimap/nicolaslimap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 **Sobre Mim**
 
-Here are some ideas to get you started:
+> Desenvolvedor de Software 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Nicolas Carvalho de Lima, estudante de Engenharia de Software na Universidade Cruzeiro do Sul, com foco em desenvolvimento backend. Tenho 3 anos de experiência profissional em diferentes setores, o que contribuiu para o desenvolvimento de habilidades como comunicação, adaptabilidade e trabalho em equipe. Atualmente busco uma oportunidade de estágio para aplicar meus conhecimentos em tecnologia e me desenvolver na área de desenvolvimento de software. 
+
+---
+
+### 🎓 **Educação**
+- 🎓 Engenharia de Software (Universidade Cruzeiro do Sul)
+
+#### 📫 **Vamos nos Conectar:**  
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/nicolaslimapdev/
+
+- 📧 **E-mail:** nicolaslimap24@gmail.com
+
+---
+
+### 🛠️ **Linguagens e Tecnologias**
+
+<br/>
+
+<div style="display: flex; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    width="40">
+</div>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<img 
+    align="left"
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=nicolaslimap&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslimap&theme=tokyonight&layout=compact&custom_title=Tecnologias&lagns_count=2" 
+  />
