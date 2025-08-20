@@ -50,5 +50,5 @@ Sou Nicolas Carvalho de Lima, estudante de Engenharia de Software na Universidad
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslimap&theme=tokyonight&layout=compact&custom_title=Tecnologias&lagns_count=2" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaslimap&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
   />
