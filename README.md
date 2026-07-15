@@ -5,7 +5,9 @@ Olá Mundo! Me chamo Nicolas Carvalho
 
 > Desenvolvedor de Software 
 
-Sou Nicolas Carvalho de Lima, estudante de Engenharia de Software na Universidade Cruzeiro do Sul, com foco em desenvolvimento backend. Tenho 3 anos de experiência profissional em diferentes setores, o que contribuiu para o desenvolvimento de habilidades como comunicação, adaptabilidade e trabalho em equipe. Atualmente busco uma oportunidade de estágio para aplicar meus conhecimentos em tecnologia e me desenvolver na área de desenvolvimento de software. 
+Sou Nicolas Carvalho de Lima, estudante de Engenharia de Software na Universidade Cruzeiro do Sul, com foco em desenvolvimento Backend. Atualmente estudo Java, Programação Orientada a Objetos, estruturas de dados, APIs REST, bancos de dados e Git/GitHub, aplicando esses conhecimentos em projetos práticos para consolidar minha evolução como desenvolvedor.
+
+Estou em busca de uma oportunidade de estágio em desenvolvimento de software para adquirir experiência prática, contribuir com projetos reais e continuar evoluindo técnica e profissionalmente.
 
 ---
 
